@@ -1,0 +1,2 @@
+# FitNotesForGainz
+mobilne aplikacie projekt
